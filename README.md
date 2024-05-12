@@ -53,7 +53,7 @@ The project aims to determine the demographic and socio-economic determinants of
 1. **Deadline**: Wednesday, 27th March 2024, 1:00 PM EAT.
 2. **Submission Format**: 
    - Compress all files into a folder named `firstname_lastname.zip`.
-   - Email the zipped folder to Laura Mideva, @iLabAfrica Course Administrator, at LMideva@strathmore.edu.
+
 
 ## Evaluation Criteria:
 - Quality of presentation of findings in the slide presentation.

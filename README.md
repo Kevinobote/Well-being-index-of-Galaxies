@@ -1,4 +1,4 @@
-# MSc Data Science and Analytics Scholarship Award Exam
+# Well-being Index of Galaxies
 
 ## Project Overview:
 The project aims to determine the demographic and socio-economic determinants of the well-being index of galaxies over a period of time and predict future well-being values using machine learning techniques.

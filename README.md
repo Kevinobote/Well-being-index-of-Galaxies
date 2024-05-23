@@ -12,7 +12,7 @@ The project aims to determine the demographic and socio-economic determinants of
    - `train.csv`: Contains training data with observed well-being index values.
    - `validation.csv`: Contains validation data for predicting future well-being index values.
 2. **Instructions**: 
-   - `MSc Data Science and Analytics  Research Scholar Test 2024`: Contains the instruction and expectations of the project.
+   - Contains the instruction and expectations of the project.
 
 
 3. **Analysis Notebook**:
@@ -49,10 +49,6 @@ The project aims to determine the demographic and socio-economic determinants of
    - Document the analysis process, model selection, and prediction results in the analysis notebook.
    - Save predicted values in a CSV file for submission.
 
-## Submission Instructions:
-1. **Deadline**: Wednesday, 27th March 2024, 1:00 PM EAT.
-2. **Submission Format**: 
-   - Compress all files into a folder named `firstname_lastname.zip`.
 
 
 ## Evaluation Criteria:
